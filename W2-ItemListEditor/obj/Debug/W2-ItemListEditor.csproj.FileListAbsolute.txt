@@ -1,0 +1,20 @@
+C:\Users\djuni\Desktop\Tools\W2-ItemListEditor-773\W2-ItemListEditor\obj\Debug\W2-ItemListEditor.csprojAssemblyReference.cache
+C:\Users\djuni\Desktop\Tools\W2-ItemListEditor-773\W2-ItemListEditor\obj\Debug\ItemListEditor.W2_ItemListEditor.resources
+C:\Users\djuni\Desktop\Tools\W2-ItemListEditor-773\W2-ItemListEditor\obj\Debug\W2-ItemListEditor.csproj.GenerateResource.cache
+C:\Users\djuni\Desktop\Tools\W2-ItemListEditor-773\W2-ItemListEditor\bin\Debug\W2-ItemListEditor.exe.config
+C:\Users\djuni\Desktop\Tools\W2-ItemListEditor-773\W2-ItemListEditor\bin\Debug\W2-ItemListEditor.exe
+C:\Users\djuni\Desktop\Tools\W2-ItemListEditor-773\W2-ItemListEditor\bin\Debug\W2-ItemListEditor.pdb
+C:\Users\djuni\Desktop\Tools\W2-ItemListEditor-773\W2-ItemListEditor\obj\Debug\W2ItemListEditor.Properties.Resources.resources
+C:\Users\djuni\Desktop\Tools\W2-ItemListEditor-773\W2-ItemListEditor\obj\Debug\W2-ItemListEditor.exe
+C:\Users\djuni\Desktop\Tools\W2-ItemListEditor-773\W2-ItemListEditor\obj\Debug\W2-ItemListEditor.pdb
+C:\Users\djuni\Desktop\Tools\W2-ItemListEditor-773\W2-ItemListEditor\obj\Debug\W2ItemListEditor.Editor.EditorItemIcon.resources
+C:\Users\djuni\Desktop\Tools\Tools for Power\W2-ItemListEditor-773\W2-ItemListEditor\bin\Debug\W2-ItemListEditor.exe.config
+C:\Users\djuni\Desktop\Tools\Tools for Power\W2-ItemListEditor-773\W2-ItemListEditor\bin\Debug\W2-ItemListEditor.exe
+C:\Users\djuni\Desktop\Tools\Tools for Power\W2-ItemListEditor-773\W2-ItemListEditor\bin\Debug\W2-ItemListEditor.pdb
+C:\Users\djuni\Desktop\Tools\Tools for Power\W2-ItemListEditor-773\W2-ItemListEditor\obj\Debug\W2-ItemListEditor.csprojAssemblyReference.cache
+C:\Users\djuni\Desktop\Tools\Tools for Power\W2-ItemListEditor-773\W2-ItemListEditor\obj\Debug\W2ItemListEditor.Editor.EditorItemIcon.resources
+C:\Users\djuni\Desktop\Tools\Tools for Power\W2-ItemListEditor-773\W2-ItemListEditor\obj\Debug\ItemListEditor.W2_ItemListEditor.resources
+C:\Users\djuni\Desktop\Tools\Tools for Power\W2-ItemListEditor-773\W2-ItemListEditor\obj\Debug\W2ItemListEditor.Properties.Resources.resources
+C:\Users\djuni\Desktop\Tools\Tools for Power\W2-ItemListEditor-773\W2-ItemListEditor\obj\Debug\W2-ItemListEditor.csproj.GenerateResource.cache
+C:\Users\djuni\Desktop\Tools\Tools for Power\W2-ItemListEditor-773\W2-ItemListEditor\obj\Debug\W2-ItemListEditor.exe
+C:\Users\djuni\Desktop\Tools\Tools for Power\W2-ItemListEditor-773\W2-ItemListEditor\obj\Debug\W2-ItemListEditor.pdb
